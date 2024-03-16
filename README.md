@@ -1,2 +1,1 @@
-# python_problems
-Including all kinda difficulty level.
+Here, I'll be posting a Python exercise that I solved in leetcode or hacker rank.
